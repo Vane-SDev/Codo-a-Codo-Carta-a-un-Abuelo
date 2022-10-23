@@ -2,29 +2,17 @@
 
 ## Este proyecto es parte del TPO para la parte de FrontEnd de Codo a Codo 2022
 
-### Requisitos
-¿Cómo se desarrollará el proyecto?
-El proyecto web se desarrollará en grupos de 3 integrantes cada uno (obligatorio). Cada grupo deberá designar un representante de forma tal de establecer contacto directo con el Docente. Será ese integrante el que recibirá la devolución del proyecto realizada por el Docente en el transcurso de la cursada y cualquier notificación relevante realizada a lo largo del desarrollo del proyecto.
+### Integrantes:
+Vanesa Paola Soria <br>
+Denise Solange Bidinost
+#### Temática
+El tema elegido se basa en un sitio que ofrece actividades y servicios para adultos mayores e instituciones que alojan adultos mayores.
 
-¿Qué hay que entregar?
-El TPO deberá cumplir con los siguientes requisitos:
-Poseer al menos 4 páginas html, siendo su temática libre. En caso de ser un Sitio Web estilo One Page, el mismo deberá tener al menos 5 secciones.
-Utilizar etiquetas semánticas para estructurar el sitio.
-Contener un formulario de contacto con validación realizada mediante Javascript. Opcional: el formulario podrá enviar un email utilizando algún servicio externo destinado para ello.
-Utilizar al menos un Iframe, íconos de FontAwesome o Flaticon; y fuentes locales o bien de Google Fonts.
-Tener al menos una página totalmente responsive con 3 puntos de corte para 3 tamaños de dispositivos distintos.
-Incorporar al menos una animación, transformación o una transición (se deberá indicar en qué parte del sitio web fue incorporada la animación).
-Poseer una estructura HTML maquetada con Flexbox y/o Grid.
-Consumir una API Rest desde JavaScript. Deberá informar la API utilizada al momento de entregar el TPO.
-En caso de querer utilizar Bootstrap (no es obligatorio), sólo podrá hacerlo en la página del formulario del sitio web. No se aceptarán proyectos desarrollados íntegramente en algún Framework de CSS (Bootstrap, Materialize, Tailwind o similar).
-El desarrollo web deberá subirse a un servidor on-line para poder ser navegada por el Docente. Ejemplo: GitHub Pages, Netlify o similares.
-Además de los aspectos técnicos mencionados anteriormente, el proyecto deberá contemplar aspectos de diseño los cuales también serán evaluados por el Docente. Para eso se recomienda que vean el material disponible en el Aula Virtual. Seminario de Diseño Web:.  https://youtu.be/fVkGt2tYIj0Para más información, ver material incluído en el Aula Virtual “Diseño”. En relación al estilo de la web (look&feel) se evaluará y considerará: maquetación del sitio web; alineación, orden y márgenes entre los elementos; tipografía seleccionada acorde a la temática del proyecto; fotografía de calidad y optimizada para web; paleta de colores seleccionada acorde a la temática; logo utilizado en el sitio web.
-Nota: el TPO es grupal, deberán sincronizar el código del TPO en Github (o similar) enviando el link del repositorio al Docente al momento de entregar el proyecto.
-Este requisito es obligatorio. Para más información sobre GIT, ver material incluído en el Aula Virtual “GIT”.
-
-Condiciones de aprobación: para aprobar se requiere resolver el trabajo práctico en un 60% de forma correcta.
-
-¿Cómo se entrega?
-Cada Docente informará la vía para subir el trabajo. Al momento de la entrega deberán informar: link a la web navegable, link al repositorio utilizado, 
-integrantes y comentarios que consideren necesarios agregar a la entrega.
-Nota: si ya tenés un proyecto comenzado para este curso, podrás usarlo para esta entrega agregándole lo que falte para cumplir con los requisitos.
+#### Tecnologías utilizadas:
+*El sitio se creó enteramente con HTML, CSS y JavaScript. <br>
+*Posee páginas Index, Redactar, Actividades, Contacto. De las cuales Index y Actividades son responsive<br> <br>
+*Se Utilizó formularios de contacto para las paginas de Redactar y Contacto con la validacion correspondiente.<br> <br>
+*Se incluyo un mapa con la etiqueta Iframe, las fuentes utilizadas son de GoogleFonts y los íconos de Fontawesome.<br> <br>
+*Se incluyeron animaciones en el menu del sitio con css y js, en el resto del sitio animaciones puramente con css.<br> <br>
+*El sitio se encuentra estructurado con etiquetas semánticas, tambien se utilizo flexbox en todo el sitio y Grid para formularios<br> <br>
+*El sitio se encuentra publicado en Netlify
